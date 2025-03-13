@@ -1,0 +1,9 @@
+>>> 0.2 + 0.1
+0.30000000000000004
+>>> 3 * 0.1
+0.30000000000000004
+
+0.2 + 0.1 = 0.3
+3 * 0.1 = 0.3
+
+Yo creo que dio ese resultado ya que en verdad ese 4 del final lo tiene, pero al ser tan pequeño, no cambia casi nada, ya que son miles de miles de milesimas.
